@@ -1,3 +1,7 @@
 <?php
 
-echo "hello world!";
+require 'koneksi.php';
+
+
+
+?>
