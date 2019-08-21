@@ -1,5 +1,5 @@
 <?php 
 
-$koneksi = mysqli_connect('localhost', 'root', '', 'abah_shop');
+$koneksi = mysqli_connect('localhost', 'root', '', 'data_siswa');
 
 ?>
